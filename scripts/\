@@ -1,0 +1,14 @@
+#!/bin/bash
+#to check if a given name is a file or directory
+
+var=$1
+
+if [ -f $var ];
+	
+then
+	echo this is a file
+	cat -e "$var"
+elif [ -d $var ];
+then
+	`ls`
+fi
