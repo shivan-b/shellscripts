@@ -1,0 +1,11 @@
+edit /etc/bashrc as rooot(use sudo)
+alias short='command'
+save
+Activate the aliases using
+source ~/.bash_aliases
+
+if it doesnt work then check if following is there in bashrc
+
+""""if [ -f ~/.bash_aliases ]; then
+. ~/.bash_aliases
+fi""""
