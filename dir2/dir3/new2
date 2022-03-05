@@ -1,0 +1,8 @@
+total 16
+drwxrwxr-x 	2 	admin admin  147 		Jan 15 10:42 dir2
+drwxrwxr-x 	6 	admin admin   56 		Jan 15 10:25 dir3
+-rwxrw-rw- 	1 	admin admin  120 		Jan 12 08:40 leap_year.sh
+-rw-rw-r-- 	1 	admin admin  184 		Jan 15 12:13 new
+-rw-rw-r-- 	1 	admin admin    0 		Jan 15 13:28 new1
+-rw-rw-r-- 	1 	admin admin  164 		Jan 15 07:24 NewFile
+-rw-rw-r-- 	1 	admin admin 1312 		Jan 15 08:25 users
